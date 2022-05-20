@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\МО\Hook-Jeeves Method\Source.cpp(49): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+E:\МО\Hook-Jeeves Method\Source.cpp(53): warning C4305: инициализация: усечение из "double" в "float"
+  Hook-Jeeves Method.vcxproj -> E:\МО\Hook-Jeeves Method\Debug\Hook-Jeeves Method.exe
